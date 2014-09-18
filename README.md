@@ -29,7 +29,7 @@ Now every time you create, update or destroy `DummyModel`s your app will send th
 Channel: `pusher`
 
 - Create
-`dummy_model.destroy`
+`dummy_model.create`
 
 - Update
 `dummy_model.update`
